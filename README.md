@@ -10,7 +10,7 @@ Students are supposed to study the code and then use it as an inspiration and ba
 
 If you get stuck, following websites are good starting points for getting help:
 
-* Basics lookup: [https://www.pythoncheatsheet.org/cheatsheet](https://www.pythoncheatsheet.org/cheatsheet)
+* Basics lookup: [https://www.pythoncheatsheet.org/cheatsheet/basics](https://www.pythoncheatsheet.org/cheatsheet/basics)
 * All the docs: [https://docs.python.org/3.10/reference](https://docs.python.org/3.10/reference)
 * Style guide: [https://peps.python.org/pep-0008/#naming-conventions](https://peps.python.org/pep-0008/#naming-conventions)
 * General help: [https://stackoverflow.com](https://stackoverflow.com)
