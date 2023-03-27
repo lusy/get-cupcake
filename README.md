@@ -6,6 +6,8 @@ The `code/` folder contains code examples in python focused on different paradig
 
 Students are supposed to study the code and then use it as an inspiration and basis in order to develop their own mini-game.
 
+The idea was inspired by the awesome book [Learn Python the Hard Way](https://learnpythonthehardway.org/) by Zed Shaw which I used to teach myself python over 10 years ago.
+
 ## Help online
 
 If you get stuck, following websites are good starting points for getting help:
